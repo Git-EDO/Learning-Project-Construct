@@ -7,3 +7,9 @@ burger.onclick = function () {
     burgerMenu.classList.toggle('active');
     body.classList.toggle('lock');
 }
+
+burgerMenu.onclick = function () {
+    burger.classList.remove('active');
+    body.classList.remove('lock');
+    burgerMenu.classList.remove('active');
+}
