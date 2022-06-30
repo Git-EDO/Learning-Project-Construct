@@ -5,6 +5,6 @@
 ### I've used the next approaches:
 - Flexbox
 - Sticky nav menu
-- CSS-only drop menu
+- JS drop menu
 - html basics
 - css basics
