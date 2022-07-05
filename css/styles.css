@@ -519,7 +519,6 @@ ul li {
     .menu__burger.active span {
         transform: scale(0);
     }
-    }
     .menu__burger::after {
         bottom: 0;
     }
@@ -575,6 +574,7 @@ ul li {
     .contacts__column3 .contacts__text {
         max-width: 250px;
     }
+}
 @media (max-width: 425px) {
     .image-item__text {
         font-size: 1.1rem;
